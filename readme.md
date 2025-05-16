@@ -59,18 +59,18 @@ The Satish Mini Compiler is a complete compiler implementation that processes a 
 3. **Clone or download this repository**:
    ```
    git clone https://github.com/SatishYadav2003/Mini-Compiler.git
-   cd mini_compiler
+   cd Mini-Compiler
    ```
 
 ## 🚀 Usage
 
 ### Windows (Using PowerShell)
 
-1. Place all files in a folder (e.g., `C:\Users\YourName\Desktop\MINI_COMPILER`)
+1. Place all files in a folder (e.g., `C:\Users\YourName\Desktop\Mini-Compiler`)
 2. Open PowerShell
 3. Navigate to your folder:
    ```powershell
-   cd C:\Users\YourName\Desktop\MINI_COMPILER
+   cd C:\Users\YourName\Desktop\Mini-Compiler
    ```
 4. Run the compiler script:
    ```powershell
