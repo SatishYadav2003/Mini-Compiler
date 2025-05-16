@@ -58,7 +58,7 @@ The Satish Mini Compiler is a complete compiler implementation that processes a 
 
 3. **Clone or download this repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/SatishYadav2003/Mini-Compiler.git
    cd mini_compiler
    ```
 
